@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+.topbar{
+    background-color: #316DC3;
+
+}
+
+.topbutton{
+    border: 0.5px solid darkgreen;
+    padding: 8px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: darkgreen;
+    background-color: white;
+}
+
+.header{
+    background-color: #f7f8fa;
+}
+
+.navul{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.new{
+    margin: 0;
+}
+
+.intro{
+    background-color: #f7f8fa;
+    text-align: center;
+}
+
+h2{
+    color: #316DC3;
+    text-align: center;
+}
+
+.counter{
+    background-color: #316DC3;
+}
+
+.services{
+    background-color: #f7f8fa;
+}
+
+.servicesbox{
+    padding: 10px;
+    background-color: white;
+    align-content: center;
+    box-shadow: 5px 5px 10px #aaaaaa;
+    color: #316DC3;
+    
+}
+
+h3{
+    color: #316DC3;
+}
+
+.separator{
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+
+.prj{
+    background-color: #f7f8fa;
+    border: 0.5px solid gray;
+    padding: 20px;
+    color: #316DC3;
+    
+}
+
+.projects marquee{
+    height: 200px;
+}
+
+.bottom{
+    background-color: #316DC3;
+}
+
+#myBtn {
+    position: fixed;
+    bottom: 30px;
+    float: right;
+    left: 92%;
+    opacity: 0.2;
+
+}
+
+#myBtn:hover {
+    opacity: 0.8;
+}
+
+.select:hover {
+    color: #ffffff;
+    background-color: #316DC3;
+    border-radius: 10px;
+
+    text-decoration: none;
+}
